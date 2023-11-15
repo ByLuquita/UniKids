@@ -1,0 +1,137 @@
+/*navbar / header*/
+
+#navbar{
+    height: 100px
+}
+
+
+#lista{
+    margin-top: 5%;
+    margin-left: -100em;
+    color: black;
+}
+
+#logo{
+    height: 90px;
+    margin-top: 6px;
+
+    margin-left: 100px;
+    
+}
+
+
+
+
+#div{
+    margin-left: 100em;
+}
+
+
+ .nav-wrapper{
+    box-shadow: 0px 1px  palevioletred;
+
+    
+   
+
+}
+
+/*fim da navbar/header*/
+
+
+
+/*section*/
+#section{
+    margin-top: 6em;
+    margin: 0 1%;
+}
+
+#matri{
+    border: 1px;
+    border-radius: 8px;
+}
+
+   
+
+
+
+#testando{
+    height: 1px;
+}
+
+#matricula{
+    height: 2em;
+    margin-top: 20px;
+}
+
+
+#section{
+    margin:8em 0px 0px 42em;
+}
+
+
+.slider{
+    margin-top: 2.4em;
+    height: 10em;
+    padding-bottom: 100px;
+}
+
+.slides{
+    height: 10000px;
+}
+
+#eupek{
+    height: 10em;
+    background-size: cover;
+    background-position: center;
+    padding-bottom: 1000px;
+    margin: 0 auto;
+}
+
+
+
+#testando3{
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+    margin: 0 auto;
+}
+
+#imagens{
+    height: 100em;
+}
+
+#colegio{
+    height: 110px;
+    margin-top: 20px;
+}
+
+
+#pedagogico{
+    height: 110px;
+    margin-top: 20px;
+}
+
+
+#noticias{
+    height: 110px;
+    margin-top: 20px;
+    margin-left: -8em;
+}
+
+#card-1{
+    margin-right: 10em;
+}
+
+#card-3{
+    margin-left: 10em;
+}
+
+.section{
+    margin-left: -5em;
+    margin-top: -100px;
+}
+
+
+
+
+/*fim da section*/
