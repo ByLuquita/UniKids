@@ -1,38 +1,38 @@
 /*navbar / header*/
-
 #navbar{
     height: 100px
 }
-
 
 #lista{
     margin-top: 5%;
     margin-left: -100em;
     color: black;
 }
-
 #logo{
     height: 90px;
     margin-top: 6px;
 
-    margin-left: 100px;
-    
+    margin-left: 100px;    
 }
-
-
-
-
 #div{
     margin-left: 100em;
 }
-
-
  .nav-wrapper{
     box-shadow: 0px 1px  palevioletred;
+}
+#colegio{
+    height: 30px;
+    margin-top: 20px;
+}
 
-    
-   
+#pedagogico{
+    height: 30px;
+    margin-top: 19px;
+}
 
+#noticias{
+    height: 30px;
+    margin-top: 19px;
 }
 
 /*fim da navbar/header*/
@@ -65,7 +65,9 @@
 
 
 #section{
-    margin:8em 0px 0px 42em;
+   /* margin:8em 100pxpx 0px 42em;*/
+   margin-top: 10em;
+   margin-left: 42em;
 }
 
 
@@ -100,23 +102,10 @@
     height: 100em;
 }
 
-#colegio{
-    height: 110px;
-    margin-top: 20px;
-}
 
 
-#pedagogico{
-    height: 110px;
-    margin-top: 20px;
-}
 
 
-#noticias{
-    height: 110px;
-    margin-top: 20px;
-    margin-left: -8em;
-}
 
 #card-1{
     margin-right: 10em;
@@ -124,14 +113,32 @@
 
 #card-3{
     margin-left: 10em;
+
 }
 
 .section{
     margin-left: -5em;
-    margin-top: -100px;
+    margin-top: -120px;
+    height: 400px;
 }
 
 
 
 
 /*fim da section*/
+
+
+#stru-box{
+    height: 150px;
+    margin-top: 23.5px;
+    box-shadow:  1px 1px 1px black;
+    border-top: 1px solid black;
+}
+
+#im-stru{
+    margin-top: 10px;
+}
+
+#im1{
+   
+}
